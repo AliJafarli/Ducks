@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05c91d3-c2ba-4d92-9e57-2a48d97389ae" name="Changes" comment="1">
+    <list default="true" id="f05c91d3-c2ba-4d92-9e57-2a48d97389ae" name="Changes" comment="First">
+      <change afterPath="$PROJECT_DIR$/src/Ducks2/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ducks2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ducks2/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ducks2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ducks2/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ducks2/Quackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ducks2/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ducks2/RubberDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoyDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoyDuck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -49,10 +62,16 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "main3",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Java/Desktop/texnoera/Ducks/src/Ducks2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Java\Desktop\texnoera\Ducks\src\Ducks2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,11 +89,28 @@
       <option name="project" value="LOCAL" />
       <updated>1731522695066</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First">
+      <option name="closed" value="true" />
+      <created>1731525905344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731525905344</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First">
+      <option name="closed" value="true" />
+      <created>1731526301862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731526301862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
   </component>
 </project>
