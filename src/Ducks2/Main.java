@@ -3,7 +3,7 @@ package Ducks2;
 public class Main {
     public static void main(String[] args) {
 //        Duck duck = new Duck(); - can`t create for abstract class
-        Duck duck1 = new MallardDuck();
+         Duck duck1 = new MallardDuck();
         Duck duck2 = new DecoyDuck();
         DecoyDuck decoyDuck = new DecoyDuck();
         Flyable flyable1 = new MallardDuck();

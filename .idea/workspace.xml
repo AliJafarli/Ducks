@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05c91d3-c2ba-4d92-9e57-2a48d97389ae" name="Changes" comment="First">
-      <change afterPath="$PROJECT_DIR$/src/Ducks2/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ducks2/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ducks2/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ducks2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ducks2/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ducks2/Quackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ducks2/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ducks2/RubberDuck.java" afterDir="false" />
+    <list default="true" id="f05c91d3-c2ba-4d92-9e57-2a48d97389ae" name="Changes" comment="task2 , Duck is abstract class now">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoyDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoyDuck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,36 +28,36 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AliJafarli"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AliJafarli&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AliJafarli/Ducks.git",
-    "accountId": "ebea434e-3804-49f4-90da-9bc556172940"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AliJafarli/Ducks.git&quot;,
+    &quot;accountId&quot;: &quot;ebea434e-3804-49f4-90da-9bc556172940&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2oo4ZSIHvu7etZytXI829uVgImU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main3",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Java/Desktop/texnoera/Ducks/src/Ducks2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#2 on main3&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Java/Desktop/texnoera/Ducks/src/Ducks2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Java\Desktop\texnoera\Ducks\src\Ducks2" />
@@ -105,12 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731526301862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task2 , Duck is abstract class now">
+      <option name="closed" value="true" />
+      <created>1731527360254</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731527360254</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="First" />
-    <option name="LAST_COMMIT_MESSAGE" value="First" />
+    <MESSAGE value="task2 , Duck is abstract class now" />
+    <option name="LAST_COMMIT_MESSAGE" value="task2 , Duck is abstract class now" />
   </component>
 </project>
