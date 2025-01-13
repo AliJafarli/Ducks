@@ -1,7 +1,9 @@
+package Ducks2;
+
 public class Main {
     public static void main(String[] args) {
-        Duck duck = new Duck();
-        Duck duck1 = new MallardDuck();
+//        Duck duck = new Duck(); - can`t create for abstract class
+         Duck duck1 = new MallardDuck();
         Duck duck2 = new DecoyDuck();
         DecoyDuck decoyDuck = new DecoyDuck();
         Flyable flyable1 = new MallardDuck();
@@ -11,7 +13,7 @@ public class Main {
         Quackable quackable3 = new RubberDuck();
 
 
-        duck.swim();
+//        duck.swim();
         System.out.println();
         decoyDuck.display();
         decoyDuck.swim();
@@ -25,8 +27,6 @@ public class Main {
         System.out.println();
         duck2.display();
         duck2.swim();
-
-
 
     }
 }
